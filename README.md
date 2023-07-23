@@ -1,4 +1,5 @@
 Hi Im Jenifer 
+
 Currently, I'm pursuing my study in Master of Data Science.
 I am intrigued by the idea of utilizing data to uncover hidden patterns and trends to solve real-world problems
 by applying data science knowledge and skills to provide novel solutions to complex problems. FROM DATA to TADA !!!
