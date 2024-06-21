@@ -5,8 +5,7 @@ I am intrigued by the idea of utilizing data to uncover hidden patterns and tren
 by applying data science knowledge and skills to provide novel solutions to complex problems. FROM DATA to TADA !!!
 I have passion in continuous learning of the advancement in the field to expand knowledge and enhance skills.
 I had experience in programming language such as Python, R Programming, HiveQL and Octave Script (MATLAB).
-Here, I shared a few of my course projects that I did myself and with my teammates.
-Looking forward to engaging and collaborating with other data science enthusiats to broaden my knowledges and elevating my skills to new heights.
+Therefore, I am looking forward to engaging and collaborating with other data science enthusiats to broaden my knowledges and elevating my skills to new heights.
 
 
 
